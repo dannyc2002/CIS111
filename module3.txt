@@ -1,4 +1,9 @@
-Pillow 
-Colorama
-Requests
-Ipython
+Pillow - This package allows you to create thumbnails, display images, apply filters and a lot more, as well as being able to do it right from the python shell. I would like to use this package because it would allow you to really customize and make somthing im trying to display my own. Whether that being a image i found, or an image that i created myself that i would like to display on whatever it may be.
+
+Colorama - Colorama allows you to add colors to your terminal you are working with whether you want to color code or simply do it because you like it. I personally would like to use this package to organize and groups things together in certain ways. It would allow you to keep track of your code thats infront of your and what youre trying to do even more than it already does now. Allowing you to really custimize your personal code and make it stand out from others.
+
+Requests - This packages allows you to make web request within your code very simple but very reliable. I would like to expieriement with this package and see what it really allows you to do. It would help me access and sort resources of data , most of the time that are coming from websites.
+
+Ipython - Ipyhton is a lot similar the the python shell its a command shell. I would like to use this python package because it is ver useful and allows a lot of beneficial outcomes. It allows imput history , caching of output results during session, tab completions and much more.
+
+Flask - This packages is a geneal tool for creating quick web services or websites. I would love to work with this package because it somthing im really intrested in working with and getting to know. This package can allow you to do many different things with website development and would be very cool to try out for the first time and expierement with one, that is simple but complex.
